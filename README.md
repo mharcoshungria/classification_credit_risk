@@ -2,4 +2,4 @@
 
 # Machine Learning e Data Science com Python
 
-Repositório criado durante o curso de [Machine Learning e Data Science com Python](https://iaexpert.academy/courses/machine-learning-data-science-python-az/) da [IA Expert Academy](https://iaexpert.academy).
+Repositório criado durante o curso de [Machine Learning e Data Science com Python](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/) da [IA Expert Academy](https://iaexpert.academy).
