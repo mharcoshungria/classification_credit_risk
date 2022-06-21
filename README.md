@@ -4,7 +4,7 @@
 
 Repositório criado para o curso de **Machine Learning e Data Science com Python** da [IA Expert Academy](https://iaexpert.academy).
 
-__Objetivo:__
+__Conteúdo:__
 
 #### Parte 1 - Classificação
 
